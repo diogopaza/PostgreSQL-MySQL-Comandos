@@ -11,7 +11,7 @@
 
 <h3>Comandos em tabelas</h3>
 <ul>
-<li><strong>update nome_da_tabela SET nome_coluna = 'novo valor para atualizar' WHERE id = 1;<strong> 
+<li><strong>update nome_da_tabela SET nome_coluna = 'novo valor para atualizar' WHERE id = 1;</strong> 
 <p>Atualizar uma coluna específica de uma tabela, passando como condição o id.</p>
 </li>
 </ul>
