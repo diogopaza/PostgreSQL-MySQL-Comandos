@@ -7,12 +7,11 @@
 </ul>
 <h2>Comandos PostgresSQL</h2>
 <ul>  
+   <li><strong>exibe informações sobre a conexão atual, como nome de usário por exemplo</strong> == \conninfo</li>
   <li><strong>listar os bancos de dados</strong> == \l</li>
   <li><strong>acessar um banco de dados existente</strong> == \c nomeDoBanco</li>
   <li><strong>listar as tabelas</strong> == \dt</li>
   <li><strong>apagar linha de uma tabela passando o id</strong> == DELETE  from <tabela> WHERE id = 1</li>
-
-
 </ul>
 
 <h3>Comandos em tabelas</h3>
